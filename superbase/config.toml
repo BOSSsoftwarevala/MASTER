@@ -1,0 +1,19 @@
+project_id = "leqqpnquggkohgupzwmv"
+
+[functions.ai-router]
+verify_jwt = false
+
+[functions.payment-webhook]
+verify_jwt = false
+
+[functions.checkout-verify]
+verify_jwt = true
+
+[functions.server-add]
+verify_jwt = false
+
+[functions.ai-seo-engine]
+verify_jwt = false
+
+[functions.ai-lead-engine]
+verify_jwt = false
